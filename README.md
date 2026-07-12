@@ -1,2 +1,3 @@
-# GEO
-分享GEO skills
+# GEO文章改写skills
+这是使用 GPT-5.5 高阶思考模式创建的 GEO文章改写 Skill，分享给各位。
+按正常的方式下载使用就好。
